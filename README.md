@@ -4,7 +4,9 @@ Hi 👋 My name is Milad
 Full Stack Developer
 --------------------
 
-Full Stack Developer | React.js | Node.js | Express | JavaScript | Python | HTML | CSS | MongoDB | GIT Experienced Full Stack Developer with a passion for creating dynamic and responsive web applications. Skilled in front-end technologies like HTML5, CSS3, JavaScript, and ReactJS, and back-end frameworks including Node.js, Express, Python/Django, PHP, and Java. Proficient in database management using MongoDB and MySQL, with expertise in CMS platforms such as WordPress, Joomla, and Shopify. With a Master’s in Computer Science/Information Technology, I have hands-on experience in designing, developing, and maintaining full-stack applications, delivering clean, scalable, and efficient code. I collaborate closely with cross-functional teams, ensuring seamless integration of front-end and back-end functionalities. My background includes optimizing website performance, implementing SEO best practices, and troubleshooting complex issues.
+Experienced Full Stack Developer with a passion for creating dynamic and responsive web applications. Skilled in front-end technologies like HTML5, CSS3, Tailwind, JavaScript, and ReactJS, and back-end frameworks including Node.js, Express.js. Database management using MongoDB and SQL, with expertise in CMS platforms such as WordPress, Joomla, and Shopify.
+
+With a Master’s in Computer Science/Information Technology, I have hands-on experience in designing, developing, and maintaining full-stack applications, delivering clean, scalable, and efficient code. I collaborate closely with cross-functional teams, ensuring seamless integration of front-end and back-end functionalities. My background includes optimizing website performance, implementing SEO best practices, and troubleshooting complex issues.
 
 * 🌍  I'm based in Toronto, Canada
 * 🖥️  See my portfolio at [miladweb.com](http://miladweb.com)
