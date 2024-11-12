@@ -1,7 +1,7 @@
 Hi 👋 My name is Milad
 ======================
 
-Full Stack Developer
+Full Stack Developer |  Front End developer 
 --------------------
 
 Experienced Full Stack Developer with a passion for creating dynamic and responsive web applications. Skilled in front-end technologies like HTML5, CSS3, Tailwind, JavaScript, and ReactJS, and back-end frameworks including Node.js, Express.js. Database management using MongoDB and SQL, with expertise in CMS platforms such as WordPress, Joomla, and Shopify.
