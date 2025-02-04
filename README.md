@@ -1,12 +1,16 @@
 Hi 👋 My name is Milad
 ======================
 
-Full Stack Developer |  Front End developer 
+Software Developer |  Front End developer 
 --------------------
 
-Experienced Full Stack Developer with a passion for creating dynamic and responsive web applications. Skilled in front-end technologies like HTML5, CSS3, Tailwind, JavaScript, and ReactJS, and back-end frameworks including Node.js, Express.js. Database management using MongoDB and SQL, with expertise in CMS platforms such as WordPress, Joomla, and Shopify.
+React.js | Spring Boot | Java | JavaScript | HTML | CSS | Tailwind | Bootstrap | MongoDB | MySQL | PostgreSQL | Git
+
+Experienced Software Developer with a passion for creating dynamic and responsive web applications. Skilled in front-end technologies like HTML5, CSS3, Tailwind, JavaScript, and ReactJS, and back-end frameworks including Java and Spring Boot. Database management expertise in MongoDB, MySQL, and PostgreSQL, with experience in CMS platforms such as WordPress, Joomla, and Shopify.
 
 With a Master’s in Computer Science/Information Technology, I have hands-on experience in designing, developing, and maintaining full-stack applications, delivering clean, scalable, and efficient code. I collaborate closely with cross-functional teams, ensuring seamless integration of front-end and back-end functionalities. My background includes optimizing website performance, implementing SEO best practices, and troubleshooting complex issues.
+
+I also have experience with version control using Git, ensuring smooth collaboration and efficient code management. Open to new opportunities where I can contribute to innovative projects and continuously grow my skill set in cutting-edge technologies.
 
 * 🌍  I'm based in Toronto, Canada
 * 🖥️  See my portfolio at [miladweb.com](http://miladweb.com)
