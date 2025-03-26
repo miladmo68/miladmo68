@@ -1,16 +1,15 @@
 Hi 👋 My name is Milad
 ======================
 
-Software Developer |  Front End developer 
+Full Stack Developer | Front End Developer 
+
 --------------------
 
-React.js | Express | Node.js | JavaScript | HTML | CSS | Tailwind | Bootstrap | MongoDB | MySQL | PostgreSQL | Git
+React.js | TypeScript | Express | Node.js | JavaScript | HTML | CSS | Tailwind | Bootstrap | MongoDB | MySQL | PostgreSQL | Git
 
-Experienced Software Developer with a passion for creating dynamic and responsive web applications. Skilled in front-end technologies like HTML5, CSS3, Tailwind, JavaScript, and ReactJS, and back-end frameworks including Node.js and Express. Database management expertise in MongoDB, MySQL, and PostgreSQL, with experience in CMS platforms such as WordPress, Joomla, and Shopify.
+Experienced full-stack developer with a strong focus on front-end development. I have a proven track record of delivering scalable, efficient solutions while specializing in creating dynamic user interfaces using modern technologies such as JavaScript, React.js, and TypeScript. My expertise extends to back-end development with Node.js, Express.js, and RESTful APIs within the robust MERN stack framework.
 
-With a Master’s in Computer Science/Information Technology, I have hands-on experience in designing, developing, and maintaining full-stack applications, delivering clean, scalable, and efficient code. I collaborate closely with cross-functional teams, ensuring seamless integration of front-end and back-end functionalities. My background includes optimizing website performance, implementing SEO best practices, and troubleshooting complex issues.
-
-I also have experience with version control using Git, ensuring smooth collaboration and efficient code management. Open to new opportunities where I can contribute to innovative projects and continuously grow my skill set in cutting-edge technologies.
+I design high-quality applications by seamlessly integrating front-end aesthetics with back-end functionality. With hands-on experience in full-stack development, I deliver clean, scalable code while collaborating with cross-functional teams. Committed to continuous learning, I stay ahead of web development trends and leverage tools like Git/GitHub and Postman to enhance collaboration and efficiency. My expertise includes optimizing website performance, implementing SEO best practices, and troubleshooting complex issues.
 
 * 🌍  I'm based in Toronto, Canada
 * 🖥️  See my portfolio at [miladweb.com](http://miladweb.com)
