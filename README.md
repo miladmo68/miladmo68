@@ -94,7 +94,7 @@ I'm **Milad**, a frontend-focused Full-Stack Developer in **Toronto** with **5+ 
 
 Built and shipped for businesses across the GTA:
 [Fair Construction](https://fairconstruction-ca.vercel.app/) ·
-[Zarsa Gold](https://zarsa2.vercel.app/) ·
+[Zarsa Gold](https://zarsa.ca/) ·
 [Kind Steps](https://kindsteps.ca/) ·
 [Intershine](https://intershine-ca.vercel.app/) ·
 [PEG Studio](https://peg-studio-ten.vercel.app/) ·
