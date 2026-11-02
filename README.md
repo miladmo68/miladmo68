@@ -102,12 +102,6 @@ Built and shipped for businesses across the GTA:
 [Tarahan Choob](https://woodline-ir.vercel.app/) ·
 [Techfahm Systems](https://techfahm.com/)
 
-## 📈 GitHub activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=miladmo68&theme=dark&background=0D0D0D&ring=FF8A00&fire=FF6A00&currStreakLabel=FF8A00&hide_border=true" alt="GitHub streak" />
-</p>
-
 ---
 
 <p align="center">
